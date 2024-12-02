@@ -45,8 +45,7 @@ body {
 .container {
     max-width: 400px;
     margin: 0 auto;
-    padding: 20px;
-    text-align: center;
+    padding: 20px 20px 100px 20px;
 }
 
 .mensagem-container {
@@ -111,9 +110,9 @@ body {
 
 .notificacao-container {
     position: fixed;
-    bottom: 20px;
+    bottom: 10px;
     left: 20px;
-    width: 90%; /* Ajuste automático para telas menores */
+    width: 750%; /* Ajuste automático para telas menores */
     max-width: 350px; /* Largura máxima */
 }
 

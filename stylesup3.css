@@ -7,6 +7,8 @@ body {
     color: #ffffff;
 }
 
+
+
 .topo {
     background-color: #fe2b5f;
     text-align: center;
@@ -59,8 +61,7 @@ body {
 .container {
     max-width: 400px;
     margin: 0 auto;
-    padding: 20px;
-    text-align: center;
+    padding: 20px 20px 100px 20px;
 }
 
 .mensagem-container {
@@ -127,7 +128,7 @@ body {
     position: fixed;
     bottom: 20px;
     left: 20px;
-    width: 90%;
+    width: 75%;
     /* Ajuste automático para telas menores */
     max-width: 350px;
     /* Largura máxima */
